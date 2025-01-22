@@ -73,6 +73,15 @@ body{
 .navlink{
     
 }
+
+.marqueee{
+    align-items: center;
+    display: flex;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 2rem;
+}
+
 .btn{
     background-color: rgba(254, 163, 1, 1);
     color:rgba(255, 255, 255, 1);
@@ -389,8 +398,7 @@ text-transform: capitalize;
 color:rgb(255, 255, 255);
 border: none;
 margin-left: 38.35px;
-margin-top:-26px;
-position: relative;
+
 }
 .card2-btn{
      border-radius: 47.93px;
@@ -455,6 +463,9 @@ color:rgb(255, 255, 255);
 border: none;
 margin-left: 37.91px;
 
+}
+.bradge{
+    margin-top:-27px ;
 }
 .card1-head{
     font-weight: 700;
