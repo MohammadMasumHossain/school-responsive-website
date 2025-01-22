@@ -11,6 +11,7 @@
 
 body{
     margin:  0 auto;
+    max-width: 1440px;
     
 }
 
@@ -190,6 +191,8 @@ header{
     margin-right: 140px;
 }
 .card1{
+    max-width: 367px;
+    max-height: 477px;
    
     
     border: 0.94px solid rgb(222, 245, 255);
@@ -200,6 +203,8 @@ header{
 
 }
 .card2{
+    max-width: 367px;
+    max-height: 477px;
     
     
     
@@ -212,6 +217,8 @@ header{
 }
 
 .card3{
+    max-width: 367px;
+    max-height: 477px;
     
     box-sizing: border-box;
     border: 0.94px solid rgb(242, 232, 255);
@@ -592,6 +599,9 @@ background: rgb(17, 17, 17);
 /* responsive design */
 
 @media screen and (max-width:576px) {
+
+   
+  
     .nav-first-p{
         display: none;
     }
